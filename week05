@@ -1,3 +1,0 @@
-git rm week05
-git commit -m "Delete week05 file"
-git push
